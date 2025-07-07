@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!;I+am+Arun+Kumar)](https://git.io/typing-svg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+There!+👋;+I'm+ArunKumar!;" />
+</h1>
 
 <h3 align="center">Tech Professional Intrested In Artificial Intelligence and Data Science</h3>
 
@@ -16,13 +18,13 @@
   <a href="mailto:arunkumar33322@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vigneshwaranit//" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/arunkumar3103//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="https://leetcode.com/u/user8100Hn/">
+    <a href="https://leetcode.com/u/arunkumar0509/">
         <img src="https://img.shields.io/badge/Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
     </a>
-    <a href="https://huggingface.co/VIgnesh12">
+    <a href="https://huggingface.co/Arun0331">
         <img src="https://img.shields.io/badge/Huggingface-333333?style=for-the-badge&logo=huggingface&logoColor=yellow"/>        
     </a>
 </div>
