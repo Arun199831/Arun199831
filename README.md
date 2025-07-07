@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+There!+👋;+I'm+Arun Kumar!;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!;I+am+Arun+Kumar)](https://git.io/typing-svg)
 
 <h3 align="center">Tech Professional Intrested In Artificial Intelligence and Data Science</h3>
 
