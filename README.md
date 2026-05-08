@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 👨‍💻 I am working on **Machine Learning,Deep Learning and Genrative AI**
+ 👨‍💻 I am working on **Machine Learning,Deep Learning and focusing on Genrative AI and Agentic AI**
  
- 🌱 I’m currently learning **Computer Vision**
+ 🌱 I’m currently learning **Agentic AI and MCP in RAG**
 
  </div>
  
